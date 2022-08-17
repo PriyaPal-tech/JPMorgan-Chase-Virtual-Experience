@@ -1,3 +1,3 @@
 # JPMorgan-Chase-Virtual-Internship
 
-![image](https://user-images.githubusercontent.com/56698425/185211853-98e7e57b-1990-4c0e-bd62-c8b6faf3bd46.png)
+![image](https://user-images.githubusercontent.com/56698425/185213144-26194ede-9c37-4f4d-8c3a-9c8810f0f724.png)
